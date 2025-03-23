@@ -2,7 +2,7 @@
 /* By Derek McGuire */
 
 // Note: Heavily influenced by:
-// 
+// https://codepen.io/beccapirie/pen/zYKMGVX
 
 // Variables to facilitate the code and the gameplay
 const board = document.querySelector('.board')
